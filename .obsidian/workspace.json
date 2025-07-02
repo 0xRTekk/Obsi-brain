@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "cccdc0611c835138",
+    "type": "split",
+    "children": [
+      {
+        "id": "26902c4955690940",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fecd6b72fc1c8114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_SYSTEM/Daily/2025-07-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-02"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06c12060562db631",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e59e094d703c782",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "545195845714e9ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f7fc4579dc655d8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Dev",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e5818c2098f49cb3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366.5
+  },
+  "right": {
+    "id": "7f42c8f29cabf1e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fa96dd59c5fb143",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb4175b7f87efcf5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_PRO/Orange_Business_Services/Global Inventory/🧠 EventMessage & Request separation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 🧠 EventMessage & Request separation"
+            }
+          },
+          {
+            "id": "bdea8811167ff63a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_PRO/Orange_Business_Services/Global Inventory/🧠 EventMessage & Request separation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 🧠 EventMessage & Request separation"
+            }
+          },
+          {
+            "id": "468c6b4a71c93911",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a9a6d4b5f9769ac3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_PRO/Orange_Business_Services/Global Inventory/🧠 EventMessage & Request separation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 🧠 EventMessage & Request separation"
+            }
+          },
+          {
+            "id": "a9bc8e9e9406ba17",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "fecd6b72fc1c8114",
+  "lastOpenFiles": [
+    "04_SYSTEM/Daily/2025-06-24.md",
+    "04_SYSTEM/Daily/2025-06-25.md",
+    "04_SYSTEM/Daily/2025-07-01.md",
+    "04_SYSTEM/Daily/2025-07-02.md",
+    "02_PRO/Orange_Business_Services/Global Inventory/🧠 EventMessage & Request separation.md",
+    "04_SYSTEM/Tags.md",
+    "04_SYSTEM/Index.md",
+    "02_PRO/Orange_Business_Services/Global Inventory/Global Inventory test.md",
+    "01_PERSONNEL/Savoir & Concepts/JAVA/BEANS CDI.md",
+    "03_TEMPLATES/GitLab MR.md",
+    "02_PRO/Orange_Business_Services/Dev/GitLab MR Template.md",
+    "01_PERSONNEL/Savoir & Concepts/JAVA/BEANS.md",
+    "01_PERSONNEL/Savoir & Concepts/JAVA",
+    "02_PRO/Orange_Business_Services/Daily notes/2025-07-01.md",
+    "02_PRO/Orange_Business_Services/Global Inventory/Index.md",
+    "02_PRO/Orange_Business_Services/media/Pasted image 20250218131914.png",
+    "02_PRO/Orange_Business_Services/media/Pasted image 20250218131849.png",
+    "02_PRO/Orange_Business_Services/media/image.png",
+    "02_PRO/Orange_Business_Services/media/image 3.png",
+    "02_PRO/Orange_Business_Services/media/image 2.png",
+    "02_PRO/Orange_Business_Services/media/image 1.png",
+    "02_PRO/Orange_Business_Services/media/image 1 1.png",
+    "02_PRO/Orange_Business_Services/Dev/Python Black linter.md",
+    "02_PRO/Orange_Business_Services/Dev/PYTHONPATH.md",
+    "02_PRO/Orange_Business_Services/Dev/Proposition py-black.md",
+    "02_PRO/Orange_Business_Services/Dev/Prompt Clean code SDWAN.md",
+    "02_PRO/Orange_Business_Services/Dev/DDD.md",
+    "02_PRO/Orange_Business_Services/Daily notes/2025-06-26.md",
+    "02_PRO/Orange_Business_Services/Administratif/Code projet.md",
+    "02_PRO/Orange_Business_Services/Daily notes/2025-06-25.md",
+    "02_PRO/Orange_Business_Services/AI/LLM Proxy.md",
+    "02_PRO/Orange_Business_Services/Daily notes/2025-06-24.md",
+    "02_PRO/Orange_Business_Services/AI/Confluence Access Token.md",
+    "02_PRO/Orange_Business_Services/AI/RAG.md",
+    "02_PRO/Orange_Business_Services/Global Inventory",
+    "02_PRO/Orange_Business_Services/media",
+    "02_PRO/Orange_Business_Services/Dev",
+    "02_PRO/Orange_Business_Services/Daily notes",
+    "02_PRO/Orange_Business_Services/Administratif",
+    "02_PRO/Orange_Business_Services/AI",
+    "02_PRO/Orange_Business_Services/Acceptance Tests",
+    "02_PRO/Orange_Business_Services",
+    "02_PRO/Orange Business Services/Daily notes",
+    "02_PRO/Orange Business Services/Acceptance Tests/Untitled.canvas",
+    "02_PRO/Orange Business Services/media/image 3.png",
+    "02_PRO/Orange Business Services/media/image 2.png",
+    "02_PRO/Orange Business Services/media/image 1 1.png"
+  ]
+}

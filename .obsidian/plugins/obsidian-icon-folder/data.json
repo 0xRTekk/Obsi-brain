@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🏢",
+      "✏",
+      "✅",
+      "📄",
+      "🧑‍💻"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "00_INBOX": "📁",
+  "01_PERSONNEL": "📁",
+  "02_PRO": "📁",
+  "03_TEMPLATES": "📁",
+  "04_SYSTEM": "📁",
+  "README.md": "🏚",
+  "01_PERSONNEL/Savoir & Concepts": "🧠",
+  "01_PERSONNEL/Projets": "🖥",
+  "01_PERSONNEL/Tâches perso": "✅",
+  "02_PRO/Formations": "📚",
+  "02_PRO/Carrière": "💼",
+  "04_SYSTEM/Tags.md": "🔖",
+  "04_SYSTEM/Daily": "📅",
+  "04_SYSTEM/Index.md": "🌐",
+  "02_PRO/Orange_Business_Services": "🏢"
+}
