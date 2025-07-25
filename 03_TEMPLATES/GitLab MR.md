@@ -18,7 +18,7 @@ Explain the context of this MR.
 <summary>📌 Details</summary>
 </details>
 
-### 🎯 Expectedt results
+## 🎯 Expectedt results
 
 Explain what are the expected results and how to interprete them.
 

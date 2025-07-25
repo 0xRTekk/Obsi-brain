@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "e2e2e5f2b36f3e53",
+        "id": "4a8986e502777779",
         "type": "tabs",
         "children": [
           {
-            "id": "42c87b5771ae27f7",
+            "id": "29311608cb7c4a3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_SYSTEM/Daily/2025-07-04.md",
+                "file": "02_PRO/Orange_Business_Services/Acceptance Tests/Test data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-04"
+              "title": "Test data"
+            }
+          },
+          {
+            "id": "fde340fe373784f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_PERSONNEL/Projets/Nucleus/docs/Glossaire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Glossaire"
+            }
+          },
+          {
+            "id": "8bf16ead7550d995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_PERSONNEL/Savoir & Concepts/Model Context Protocol (MCP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Model Context Protocol (MCP)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Dev",
+                "query": "tag:#IA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 252.5
   },
   "right": {
     "id": "7f42c8f29cabf1e0",
@@ -182,11 +211,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "42c87b5771ae27f7",
+  "active": "fde340fe373784f3",
   "lastOpenFiles": [
-    "03_TEMPLATES/Jira ticket.md",
+    "04_SYSTEM/Daily/2025-07-25.md",
+    "01_PERSONNEL/Projets/Nucleus/docs/Glossaire.md",
+    "04_SYSTEM/Daily/2025-07-23.md",
+    "01_PERSONNEL/Projets/Nucleus/docs",
+    "Untitled",
+    "01_PERSONNEL/Projets/Nucleus",
+    "02_PRO/Orange_Business_Services/Acceptance Tests/Test data.md",
+    "02_PRO/Orange_Business_Services/Acceptance Tests/Parcours opérateur.md",
+    "02_PRO/Orange_Business_Services/Acceptance Tests/WAN Connectivity.md",
+    "02_PRO/Orange_Business_Services/Acceptance Tests/LAN Connectivity.md",
+    "02_PRO/Orange_Business_Services/Acceptance Tests/OSPF.md",
     "03_TEMPLATES/GitLab MR.md",
+    "01_PERSONNEL/Savoir & Concepts/Model Context Protocol (MCP).md",
+    "JAVA.md",
+    "04_SYSTEM/Daily/2025-07-21.md",
     "04_SYSTEM/Daily/2025-07-04.md",
+    "03_TEMPLATES/Jira ticket.md",
     "04_SYSTEM/Daily/2025-07-03.md",
     "04_SYSTEM/Daily/2025-07-02.md",
     "01_PERSONNEL/Savoir & Concepts/JAVA/BEANS.md",
@@ -209,24 +252,10 @@
     "02_PRO/Orange_Business_Services/Dev/Prompt Clean code SDWAN.md",
     "02_PRO/Orange_Business_Services/Dev/DDD.md",
     "02_PRO/Orange_Business_Services/Dev",
-    "02_PRO/Orange_Business_Services/AI/RAG.md",
-    "02_PRO/Orange_Business_Services/AI/Notes input.md",
-    "02_PRO/Orange_Business_Services/AI/LLM Proxy.md",
-    "02_PRO/Orange_Business_Services/AI/Confluence Access Token.md",
-    "02_PRO/Orange_Business_Services/AI/Chunking strategies.md",
-    "02_PRO/Orange_Business_Services/AI/Chunking 1.md",
     "02_PRO/Orange_Business_Services/AI",
-    "02_PRO/Orange_Business_Services/Administratif/Code projet.md",
     "02_PRO/Orange_Business_Services/Administratif",
-    "02_PRO/Orange_Business_Services/Acceptance Tests/WAN Connectivity.md",
-    "02_PRO/Orange_Business_Services/Acceptance Tests/Parcours opérateur.md",
-    "02_PRO/Orange_Business_Services/Acceptance Tests/OSPF.md",
-    "02_PRO/Orange_Business_Services/Acceptance Tests/LAN Connectivity.md",
     "02_PRO/Orange_Business_Services/Acceptance Tests",
     "02_PRO/Orange_Business_Services",
-    "01_PERSONNEL/Savoir & Concepts/JAVA",
-    "02_PRO/Orange_Business_Services/Daily notes",
-    "02_PRO/Orange Business Services/Daily notes",
     "02_PRO/Orange Business Services/Acceptance Tests/Untitled.canvas",
     "02_PRO/Orange Business Services/media/image 3.png",
     "02_PRO/Orange Business Services/media/image 2.png",
