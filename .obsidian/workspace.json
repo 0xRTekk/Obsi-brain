@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_PERSONNEL/Projets/Nucleus/docs/Glossaire.md",
+                "file": "01_PERSONNEL/Projets/SolariaDev/docs/📘 Glossaire technique ↔ UX (Solarpunk) – Backend Only.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glossaire"
+              "title": "📘 Glossaire technique ↔ UX (Solarpunk) – Backend Only"
             }
           },
           {
@@ -211,14 +211,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fde340fe373784f3",
+  "active": "545195845714e9ae",
   "lastOpenFiles": [
     "04_SYSTEM/Daily/2025-07-25.md",
-    "01_PERSONNEL/Projets/Nucleus/docs/Glossaire.md",
+    "01_PERSONNEL/Projets/SolariaDev/docs/📘 Glossaire technique ↔ UX (Solarpunk) – Backend Only.md",
     "04_SYSTEM/Daily/2025-07-23.md",
-    "01_PERSONNEL/Projets/Nucleus/docs",
+    "01_PERSONNEL/Projets/SolariaDev/docs",
     "Untitled",
-    "01_PERSONNEL/Projets/Nucleus",
+    "01_PERSONNEL/Projets/SolariaDev",
     "02_PRO/Orange_Business_Services/Acceptance Tests/Test data.md",
     "02_PRO/Orange_Business_Services/Acceptance Tests/Parcours opérateur.md",
     "02_PRO/Orange_Business_Services/Acceptance Tests/WAN Connectivity.md",
