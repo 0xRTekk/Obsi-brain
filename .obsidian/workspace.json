@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Vision Produit"
             }
+          },
+          {
+            "id": "3e0ecc411fe1b5fa",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_PERSONNEL/Projets/Technical PO/SolariaDev/Vision Produit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vision Produit"
+              "title": "Outgoing links"
             }
           },
           {
@@ -181,14 +195,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "545195845714e9ae",
+  "active": "3e0ecc411fe1b5fa",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "01_PERSONNEL/Projets/Technical PO/SolariaDev/Vision Produit.md",
+    "04_SYSTEM/Daily/2025-07-29.md",
     "01_PERSONNEL/Projets/Technical PO/SolariaDev/Autoformation PO.md",
     "01_PERSONNEL/Projets/Technical PO/ConfluBot/Actions PO.md",
     "01_PERSONNEL/Projets/Technical PO/ConfluBot",
     "01_PERSONNEL/Projets/Technical PO/SolariaDev",
     "01_PERSONNEL/Projets/Technical PO/Stratégie de transition/01. Rebranding Linkedin.md",
-    "01_PERSONNEL/Projets/Technical PO/SolariaDev/Vision Produit.md",
     "01_PERSONNEL/Projets/Technical PO/Stratégie de transition",
     "01_PERSONNEL/Projets/Technical PO/Stratégie de transition/03. Pitch personnel et lettre de motivation ciblée.md",
     "01_PERSONNEL/Projets/Technical PO/Stratégie de transition/02. Stratégie de transition PO Technique × DevRel.md",
@@ -214,7 +230,6 @@
     "04_SYSTEM/Daily/2025-07-04.md",
     "03_TEMPLATES/Jira ticket.md",
     "04_SYSTEM/Daily/2025-07-03.md",
-    "04_SYSTEM/Daily/2025-07-02.md",
     "02_PRO/Orange_Business_Services/media/Pasted image 20250218131914.png",
     "02_PRO/Orange_Business_Services/media/Pasted image 20250218131849.png",
     "02_PRO/Orange_Business_Services/media/image.png",
