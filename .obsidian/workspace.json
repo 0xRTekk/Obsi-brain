@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9ed567a90a389a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_PRO/Orange_Business_Services/ChatBot Confluence/Confluence Access Token.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Confluence Access Token"
-            }
-          },
-          {
             "id": "22319e5529fea7d2",
             "type": "leaf",
             "state": {
@@ -41,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_PRO/Orange_Business_Services/ChatBot Confluence/ModOp.md",
+                "file": "2025-08-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ModOp"
-            }
-          },
-          {
-            "id": "99473b31b081a6af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_PRO/Orange_Business_Services/Team/Philippe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Philippe"
+              "title": "2025-08-11"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 330.5
   },
   "right": {
     "id": "7f42c8f29cabf1e0",
@@ -224,16 +196,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a9bc8e9e9406ba17",
+  "active": "a1dec43168171816",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "01_PERSONNEL/Projets/Technical PO/Stratégie de transition/02. Stratégie de transition PO Technique × DevRel.md",
+    "2025-08-11.md",
+    "02_PRO/Orange_Business_Services/ChatBot Confluence/Todo.md",
+    "02_PRO/Orange_Business_Services/ChatBot Confluence/Confluence Access Token.md",
+    "01_PERSONNEL/Projets/Technical PO/ConfluBot/Actions PO.md",
     "02_PRO/Orange_Business_Services/ChatBot Confluence/ModOp.md",
+    "conflict-files-obsidian-git.md",
     "01_PERSONNEL/Projets/Technical PO/Stratégie de transition/03. Pitch personnel et lettre de motivation ciblée.md",
     "01_PERSONNEL/Projets/Technical PO/Stratégie de transition/01. Rebranding Linkedin.md",
-    "01_PERSONNEL/Projets/Technical PO/Stratégie de transition/02. Stratégie de transition PO Technique × DevRel.md",
     "01_PERSONNEL/Projets/Technical PO/SolariaDev/Vision Produit.md",
     "01_PERSONNEL/Projets/Technical PO/SolariaDev/Autoformation PO.md",
-    "01_PERSONNEL/Projets/Technical PO/ConfluBot/Actions PO.md",
     "01_PERSONNEL/Projets/Technical PO/Stratégie de transition",
     "01_PERSONNEL/Projets/Technical PO/SolariaDev",
     "01_PERSONNEL/Projets/Technical PO/ConfluBot",
@@ -242,21 +217,18 @@
     "01_PERSONNEL/Projets/SolariaDev/docs/🌟 Vision Produit - LMS Gamifié pour Développeurs Juniors.md",
     "01_PERSONNEL/Projets/SolariaDev/docs/✅ Gherkin – Scénarios BDD – Phase 1.md",
     "02_PRO/Orange_Business_Services/Team/Philippe.md",
-    "02_PRO/Orange_Business_Services/ChatBot Confluence/Todo.md",
     "02_PRO/Orange_Business_Services/Nat-box.md",
     "04_SYSTEM/Daily/2025-07-30.md",
     "04_SYSTEM/Daily/2025-07-29.md",
     "Untitled.md",
     "02_PRO/Orange_Business_Services/Team",
     "02_PRO/Orange_Business_Services/Administratif/Code projet.md",
-    "02_PRO/Orange_Business_Services/ChatBot Confluence/Confluence Access Token.md",
     "02_PRO/Orange_Business_Services/ChatBot Confluence/RAG.md",
     "02_PRO/Orange_Business_Services/ChatBot Confluence/Notes input.md",
     "02_PRO/Orange_Business_Services/ChatBot Confluence/LLM Proxy.md",
     "02_PRO/Orange_Business_Services/ChatBot Confluence/Chunking strategies.md",
     "02_PRO/Orange_Business_Services/ChatBot Confluence/Chunking 1.md",
     "04_SYSTEM/Daily/2025-07-23.md",
-    "01_PERSONNEL/Savoir & Concepts/Model Context Protocol (MCP).md",
     "01_PERSONNEL/Projets/SolariaDev/docs",
     "01_PERSONNEL/Projets/SolariaDev",
     "01_PERSONNEL/Projets/Nucleus/docs",
