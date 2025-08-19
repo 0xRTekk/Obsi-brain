@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4a8986e502777779",
+        "id": "51907fd9dda47285",
         "type": "tabs",
         "children": [
           {
-            "id": "29311608cb7c4a3b",
+            "id": "c01a7f34be67f345",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "01_PERSONNEL/Projets/Technical PO/SolariaDev/Vision Produit.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-icon-folder/data.json",
+                "bFile": ".obsidian/plugins/obsidian-icon-folder/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Vision Produit"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -166,10 +166,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 891.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,10 +182,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29311608cb7c4a3b",
+  "active": "c01a7f34be67f345",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "01_PERSONNEL/Projets/Technical PO/SolariaDev/Vision Produit.md",
+    "2025-08-11.md",
+    "04_SYSTEM/Daily/2025-07-30.md",
     "04_SYSTEM/Daily/2025-07-29.md",
     "01_PERSONNEL/Projets/Technical PO/SolariaDev/Autoformation PO.md",
     "01_PERSONNEL/Projets/Technical PO/ConfluBot/Actions PO.md",
@@ -214,8 +217,6 @@
     "JAVA.md",
     "04_SYSTEM/Daily/2025-07-21.md",
     "04_SYSTEM/Daily/2025-07-04.md",
-    "03_TEMPLATES/Jira ticket.md",
-    "04_SYSTEM/Daily/2025-07-03.md",
     "02_PRO/Orange_Business_Services/media/Pasted image 20250218131914.png",
     "02_PRO/Orange_Business_Services/media/Pasted image 20250218131849.png",
     "02_PRO/Orange_Business_Services/media/image.png",
