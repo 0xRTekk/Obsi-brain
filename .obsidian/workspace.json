@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Vision Produit"
             }
-          },
-          {
-            "id": "3e0ecc411fe1b5fa",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_PERSONNEL/Projets/Technical PO/SolariaDev/Vision Produit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Vision Produit"
             }
           },
           {
@@ -195,7 +181,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e0ecc411fe1b5fa",
+  "active": "29311608cb7c4a3b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "01_PERSONNEL/Projets/Technical PO/SolariaDev/Vision Produit.md",

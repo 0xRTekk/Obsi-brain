@@ -5,21 +5,7 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [
-<<<<<<< HEAD
-      "🗺",
-      "🧭",
-      "🌱",
-      "🌻",
-      "🤖"
-=======
-      "🤖",
-      "🏢",
-      "✏",
-      "✅",
-      "📄"
->>>>>>> origin/main
-    ],
+    "recentlyUsedIcons": [],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -41,37 +27,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "00_INBOX": "📁",
-  "01_PERSONNEL": "📁",
-  "02_PRO": "📁",
-  "03_TEMPLATES": "📁",
-  "04_SYSTEM": "📁",
-  "README.md": "🏚",
-  "01_PERSONNEL/Savoir & Concepts": "🧠",
-  "01_PERSONNEL/Projets": "🖥",
-  "01_PERSONNEL/Tâches perso": "✅",
-  "02_PRO/Formations": "📚",
-  "02_PRO/Carrière": "💼",
-  "04_SYSTEM/Tags.md": "🔖",
-  "04_SYSTEM/Daily": "📅",
-  "04_SYSTEM/Index.md": "🌐",
-  "02_PRO/Orange_Business_Services": "🏢",
-<<<<<<< HEAD
-  "01_PERSONNEL/Projets/Technical PO": "👨‍💼",
-  "01_PERSONNEL/Projets/SolariaDev": "🌱",
-  "01_PERSONNEL/Projets/Technical PO/Stratégie de transition/03. Pitch personnel et lettre de motivation ciblée.md": "🥉",
-  "01_PERSONNEL/Projets/Technical PO/Stratégie de transition/01. Rebranding Linkedin.md": "🥇",
-  "01_PERSONNEL/Projets/Technical PO/Stratégie de transition/02. Stratégie de transition PO Technique × DevRel.md": "🥈",
-  "01_PERSONNEL/Projets/Technical PO/Stratégie de transition": "🗺",
-  "01_PERSONNEL/Projets/Technical PO/SolariaDev": "🌱",
-  "01_PERSONNEL/Projets/Technical PO/ConfluBot": "🤖",
-  "01_PERSONNEL/Projets/Technical PO/ConfluBot/Actions PO.md": "🤖",
-  "01_PERSONNEL/Projets/Technical PO/SolariaDev/Autoformation PO.md": "🧭",
-  "01_PERSONNEL/Projets/Technical PO/SolariaDev/Vision Produit.md": "🌱"
-=======
-  "02_PRO/Orange_Business_Services/ChatBot Confluence": "🤖",
-  "02_PRO/Orange_Business_Services/ChatBot Confluence/ModOp.md": "📄",
-  "02_PRO/Orange_Business_Services/ChatBot Confluence/Todo.md": "✅"
->>>>>>> origin/main
+  }
 }
