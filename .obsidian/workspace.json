@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "51907fd9dda47285",
+        "id": "e9490efc49a0f483",
         "type": "tabs",
         "children": [
           {
-            "id": "c01a7f34be67f345",
+            "id": "a0f6f7794fd374f6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/obsidian-icon-folder/data.json",
-                "bFile": ".obsidian/plugins/obsidian-icon-folder/data.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -166,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 891.5
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +178,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c01a7f34be67f345",
+  "active": "a9bc8e9e9406ba17",
   "lastOpenFiles": [
+    "2025-08-11.md",
     "conflict-files-obsidian-git.md",
     "01_PERSONNEL/Projets/Technical PO/SolariaDev/Vision Produit.md",
-    "2025-08-11.md",
     "04_SYSTEM/Daily/2025-07-30.md",
     "04_SYSTEM/Daily/2025-07-29.md",
     "01_PERSONNEL/Projets/Technical PO/SolariaDev/Autoformation PO.md",
