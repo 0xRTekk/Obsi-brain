@@ -4,5 +4,6 @@
   "obsidian-git",
   "obsidian-tasks-plugin",
   "templater-obsidian",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "dataview"
 ]
