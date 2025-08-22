@@ -27,6 +27,7 @@
 - https://www.edtechdigest.com/2025/08/13/ixl-platform/
 - https://elearningindustry.com/leveling-up-compliance-how-game-based-learning-transforms-ethical-culture
 - https://elearningindustry.com/subjects/gamification-education
+- [Gamification For Apps | How Strava Drives App Engagement | StriveCloud](https://strivecloud.io/blog/app-engagement-strava/)
 
 ## DevTools
 - https://dev.to/vadym_info_polus/from-pair-programming-to-ai-pair-partners-the-next-leap-in-developer-collaboration-52hg
