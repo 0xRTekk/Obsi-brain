@@ -1,6 +1,6 @@
 ## Product management
 - https://soundcloud.com/productled/sets/the-product-led-playbook/s-Un35HUKb7hP?si=8d7c441c96ee4144bd8acc9ea13a98db
-- https://www.lennysnewsletter.com/p/why-your-ai-product-needs-a-different
+- [x] https://www.lennysnewsletter.com/p/why-your-ai-product-needs-a-different ✅ 2025-08-24
 - https://www.mindtheproduct.com/how-product-managers-can-build-better-ai-driven-products/
 - https://www.lennysnewsletter.com/p/the-one-question-that-saves-product-careers-matt-lemay
 - https://www.intercom.com/blog/cut-through-ai-hype-and-choose-solutions-with-confidence/

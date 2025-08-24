@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "beaa3c1393a6a5a4",
+        "id": "1f1507d00cfa30ae",
         "type": "tabs",
         "children": [
           {
-            "id": "12056966ddf19a31",
+            "id": "2ebe6599ead0fd28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "To process"
             }
+          },
+          {
+            "id": "4961d1550a5971fb",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 391.5
   },
   "right": {
     "id": "7f42c8f29cabf1e0",
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_PRO/Orange_Business_Services/ChatBot Confluence/Todo.md",
+                "file": "01_PERSONNEL/Projets/Technical PO/SolariaDev/Vision Produit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Todo"
+              "title": "Outgoing links from Vision Produit"
             }
           },
           {
@@ -166,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 480.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,54 +197,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12056966ddf19a31",
+  "active": "4961d1550a5971fb",
   "lastOpenFiles": [
-    "01_PERSONNEL/Veille/00_Inbox/To process.md",
-    "01_PERSONNEL/Veille/00_Inbox",
-    "03_TEMPLATES/GitLab MR.md",
-    "01_PERSONNEL/Veille/99_Ressources.md",
-    "01_PERSONNEL/Veille/Dashboard.md",
-    "Untitled.md",
-    "03_TEMPLATES/Veille/Synthèse hebdo.md",
+    "01_PERSONNEL/Veille/01_Articles/How to crush your competition like Strava.md",
+    "01_PERSONNEL/Veille/02_Entreprises/Strava.md",
+    "Titre Article 1.md",
     "03_TEMPLATES/Veille/Entreprise.md",
-    "03_TEMPLATES/Veille/Tendance.md",
+    "01_PERSONNEL/Veille/01_Articles/Why your AI product needs a different development lifecycle.md",
+    "01_PERSONNEL/Veille/01_Articles/medias/Pasted image 20250824130204.png",
+    "README.md",
+    "01_PERSONNEL/Veille/01_Articles/medias",
+    "Untitled.md",
+    "01_PERSONNEL/Veille/01_Articles/medias/Pasted image 20250824124657.png",
+    "01_PERSONNEL/Veille/01_Articles/medias/Pasted image 20250824124806.png",
+    "01_PERSONNEL/Veille/01_Articles/medias/Pasted image 20250824130149.png",
+    "01_PERSONNEL/Veille/00_Inbox/To process.md",
     "03_TEMPLATES/Veille/Article.md",
+    "01_PERSONNEL/Veille/Dashboard.md",
+    "01_PERSONNEL/Veille/02_Startups/Untitled.md",
+    "01_PERSONNEL/Veille/Untitled.base",
+    "01_PERSONNEL/Veille/02_Startups/Supabase.md",
+    "01_PERSONNEL/Veille/99_Ressources.md",
+    "03_TEMPLATES/Veille/Synthèse hebdo.md",
+    "03_TEMPLATES/Veille/Tendance.md",
     "03_TEMPLATES/Veille",
-    "01_PERSONNEL/Veille",
-    "00_INBOX/Inbox notes.md",
-    "02_PRO/Orange_Business_Services/Team/Philippe.md",
-    "02_PRO/Orange_Business_Services/Logging.md",
-    "02_PRO/Orange_Business_Services/ChatBot Confluence/Confluence Access Token.md",
-    "02_PRO/Orange_Business_Services/ChatBot Confluence/Chunking strategies.md",
-    "02_PRO/Orange_Business_Services/ChatBot Confluence/Chunking 1.md",
-    "02_PRO/Orange_Business_Services/ChatBot Confluence/Todo.md",
+    "01_PERSONNEL/Veille/99_Ressources",
+    "01_PERSONNEL/Veille/04_Synthèses_hebdo",
+    "01_PERSONNEL/Veille/03_Tendances",
+    "01_PERSONNEL/Veille/02_Entreprises",
+    "01_PERSONNEL/Veille/01_Articles",
+    "01_PERSONNEL/Veille/00_Inbox",
+    "01_PERSONNEL/Untitled/Untitled.base",
     "2025-08-11.md",
-    "01_PERSONNEL/Projets/Technical PO/Stratégie de transition/02. Stratégie de transition PO Technique × DevRel.md",
-    "01_PERSONNEL/Projets/Technical PO/ConfluBot/Actions PO.md",
-    "02_PRO/Orange_Business_Services/ChatBot Confluence/ModOp.md",
     "conflict-files-obsidian-git.md",
-    "01_PERSONNEL/Projets/Technical PO/Stratégie de transition/03. Pitch personnel et lettre de motivation ciblée.md",
-    "01_PERSONNEL/Projets/Technical PO/Stratégie de transition/01. Rebranding Linkedin.md",
     "01_PERSONNEL/Projets/Technical PO/SolariaDev/Vision Produit.md",
+    "04_SYSTEM/Daily/2025-07-30.md",
+    "04_SYSTEM/Daily/2025-07-29.md",
     "01_PERSONNEL/Projets/Technical PO/SolariaDev/Autoformation PO.md",
-    "01_PERSONNEL/Projets/Technical PO/Stratégie de transition",
-    "01_PERSONNEL/Projets/Technical PO/SolariaDev",
-    "01_PERSONNEL/Projets/Technical PO/ConfluBot",
-    "01_PERSONNEL/Projets/Technical PO",
-    "01_PERSONNEL/Projets/SolariaDev/docs/📘 User Stories – Phase 1 – Cœur de la plateforme.md",
-    "02_PRO/Orange_Business_Services/Team",
-    "01_PERSONNEL/Projets/SolariaDev/docs",
-    "01_PERSONNEL/Projets/SolariaDev",
+    "01_PERSONNEL/Projets/Technical PO/ConfluBot/Actions PO.md",
+    "01_PERSONNEL/Projets/Technical PO/Stratégie de transition/01. Rebranding Linkedin.md",
+    "01_PERSONNEL/Projets/Technical PO/Stratégie de transition/03. Pitch personnel et lettre de motivation ciblée.md",
+    "01_PERSONNEL/Projets/Technical PO/Stratégie de transition/02. Stratégie de transition PO Technique × DevRel.md",
+    "01_PERSONNEL/Projets/SolariaDev/docs/📘 Glossaire technique ↔ UX (Solarpunk) – Backend Only.md",
     "02_PRO/Orange_Business_Services/media/Pasted image 20250218131914.png",
     "02_PRO/Orange_Business_Services/media/Pasted image 20250218131849.png",
     "02_PRO/Orange_Business_Services/media/image.png",
     "02_PRO/Orange_Business_Services/media/image 3.png",
     "02_PRO/Orange_Business_Services/media/image 2.png",
     "02_PRO/Orange_Business_Services/media/image 1.png",
-    "02_PRO/Orange_Business_Services/media/image 1 1.png",
-    "02_PRO/Orange Business Services/Acceptance Tests/Untitled.canvas",
-    "02_PRO/Orange Business Services/media/image 3.png",
-    "02_PRO/Orange Business Services/media/image 2.png",
-    "02_PRO/Orange Business Services/media/image 1 1.png"
+    "02_PRO/Orange Business Services/Acceptance Tests/Untitled.canvas"
   ]
 }
