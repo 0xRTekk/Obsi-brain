@@ -1,25 +1,14 @@
-## 📊 Tableau des entreprises par domaine
+## 📊 Entreprises
 ```dataview
-table domaine, sous-domaine, site, etat, communauté
-from "Veille/Entreprises"
-where type = "entreprise"
-sort domaine asc
+table domaine, sous-domaine
+FROM "01_PERSONNEL/Veille/02_Entreprises"
 ```
+
 
 ---
 
-## 📚 Articles classés par tendance
+## 📚 Articles
 ```dataview
-table domaine, tendance, source, date
-from "Veille/Articles"
-where type = "article"
-sort date desc
-```
-
----
-
-## 🔍 Tendances en cours (liste auto)
-```dataview
-list
-from "Veille/Tendances"
+TABLE tags as "Tags"
+FROM "01_PERSONNEL/Veille/01_Articles"
 ```

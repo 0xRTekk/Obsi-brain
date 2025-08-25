@@ -1,1 +1,0 @@
-Obsidian Vault to centralize all my notes 

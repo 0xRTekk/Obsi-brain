@@ -1,7 +1,11 @@
-📅 Date : 24/08/2025
-🔗 Source : [lien](https://www.lennysnewsletter.com/p/why-your-ai-product-needs-a-different)
-🏷️ Tags : #product / #IA / #product-management
-
+---
+📅 Date: 24/08/2025
+Source: https://www.lennysnewsletter.com/p/why-your-ai-product-needs-a-different
+tags:
+  - product
+  - Product-management
+  - IA
+---
 ## 📝 Résumé
 Le process de développement de d'applications IA doit être différent de nos cycles développement logiciel classique, du fait du caractère non déterministe de l'IA.
 Ce qui nous demande d'avoir un haut taux de contrôle du comportement des modèles au début du cycle du développement de l'application en délaissant l'autonomie que pourrait avoir les agents. Au fur et à mesure qu'on produit de nouvelles versions, on sera capable de diminuer le contrôle pour laisser de plus en plus d'autonomie aux agents IA car ils auront été assez entrainés et contrôlés.

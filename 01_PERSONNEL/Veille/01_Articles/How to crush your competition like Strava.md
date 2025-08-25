@@ -1,6 +1,10 @@
-📅 Date : 24/08/2025
-🔗 Source : [lien](https://strivecloud.io/blog/app-engagement-strava/)
-🏷️ Tags : #product / #gamification
+---
+📅 Date: 24/08/2025
+🔗 Source: https://strivecloud.io/blog/app-engagement-strava/
+tags:
+  - Gamification
+  - product
+---
 
 ## 📝 Résumé
 Strava est une application de fitness qui rassemble 55 millions d'utilisateurs permettant de tracker leurs progressions, leurs réussites, goals etc.

@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🔎"
+      "💡",
+      "🏷",
+      "📅",
+      "🔎",
+      "🧑‍💼"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +34,14 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "01_PERSONNEL/Veille": "🔎"
+  "01_PERSONNEL/Veille": "🔎",
+  "01_PERSONNEL/Tâches perso": "✅",
+  "01_PERSONNEL/Savoir & Concepts": "🧠",
+  "01_PERSONNEL/Projets": "🎮",
+  "02_PRO/Carrière": "🏢",
+  "02_PRO/Formations": "💼",
+  "02_PRO/Orange_Business_Services": "🧑‍💼",
+  "03_TEMPLATES/Veille": "🔎",
+  "04_SYSTEM/Daily": "📅",
+  "04_SYSTEM/Tags.md": "🏷"
 }

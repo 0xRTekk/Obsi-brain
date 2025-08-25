@@ -1,8 +1,10 @@
-# {{titre de l’article}}
-📅 Date : {{date}}
-🔗 Source : [lien]({{url}})
-🏷️ Tags : #edtech / #devtools / #product
-
+---
+📅 Date: 24/08/2025
+🔗 Source: https://strivecloud.io/blog/app-engagement-strava/
+tags:
+  - Gamification
+  - product
+---
 ## 📝 Résumé
 (3-5 phrases max, reformulation perso)
 
