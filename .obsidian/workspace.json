@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8d4183b33dffde34",
+        "id": "f64334d0dd44fed0",
         "type": "tabs",
         "children": [
           {
-            "id": "bf5971ee559e82f3",
+            "id": "4b1a8b194f498e2f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "02_PRO/Orange_Business_Services/Get HA interfaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Get HA interfaces"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#product",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 307.5
   },
   "right": {
     "id": "7f42c8f29cabf1e0",
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_PRO/Orange_Business_Services/Global Inventory/🧠 EventMessage & Request separation.md",
+                "file": "02_PRO/Orange_Business_Services/Get HA interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🧠 EventMessage & Request separation"
+              "title": "Backlinks for Get HA interfaces"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_PRO/Orange_Business_Services/ChatBot Confluence/Todo.md",
+                "file": "02_PRO/Orange_Business_Services/Get HA interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Todo"
+              "title": "Outgoing links from Get HA interfaces"
             }
           },
           {
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_PRO/Orange_Business_Services/Global Inventory/🧠 EventMessage & Request separation.md",
+                "file": "02_PRO/Orange_Business_Services/Get HA interfaces.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🧠 EventMessage & Request separation"
+              "title": "Outline of Get HA interfaces"
             }
           },
           {
@@ -178,13 +182,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bf5971ee559e82f3",
+  "active": "545195845714e9ae",
   "lastOpenFiles": [
+    "Pasted image 20250825163619.png",
+    "Pasted image 20250825163612.png",
+    "00_INBOX/Prompt clean archi.md",
+    "02_PRO/Orange_Business_Services/Get HA interfaces.md",
+    "02_PRO/Orange_Business_Services/Dev/Proposition réorganisation Clean Archi.md",
+    "02_PRO/Orange_Business_Services/Dev/Clean Archi proposition.svg",
+    "02_PRO/Orange_Business_Services/Dev/Prompt Clean code SDWAN.md",
+    "02_PRO/Orange_Business_Services/Dev/SSE.drawio",
+    "02_PRO/Orange_Business_Services/Dev/DDD.md",
+    "01_PERSONNEL/Veille/01_Articles/How to crush your competition like Strava.md",
+    "01_PERSONNEL/Veille/01_Articles/Untitled.md",
     "03_TEMPLATES/Veille/Tendance (ex AI dans l’éducation, Product-Led Growth en DevTools).md",
     "03_TEMPLATES/Veille/Synthèse hebdo.md",
     "03_TEMPLATES/Veille/Entreprise.md",
     "03_TEMPLATES/Veille/Article.md",
-    "01_PERSONNEL/Veille/01_Articles/How to crush your competition like Strava.md",
     "01_PERSONNEL/Veille/Dashboard.md",
     "01_PERSONNEL/Veille/99_Ressources.md",
     "01_PERSONNEL/Veille/02_Entreprises/Strava.md",
@@ -210,21 +224,12 @@
     "01_PERSONNEL/Veille",
     "00_INBOX/Inbox notes.md",
     "02_PRO/Orange_Business_Services/Team/Philippe.md",
-    "02_PRO/Orange_Business_Services/Logging.md",
-    "02_PRO/Orange_Business_Services/ChatBot Confluence/Confluence Access Token.md",
-    "02_PRO/Orange_Business_Services/ChatBot Confluence/Chunking strategies.md",
-    "02_PRO/Orange_Business_Services/ChatBot Confluence/Chunking 1.md",
-    "02_PRO/Orange_Business_Services/ChatBot Confluence/Todo.md",
-    "2025-08-11.md",
     "01_PERSONNEL/Projets/Technical PO/Stratégie de transition",
     "01_PERSONNEL/Projets/Technical PO/SolariaDev",
-    "01_PERSONNEL/Projets/Technical PO/ConfluBot",
     "02_PRO/Orange_Business_Services/media/Pasted image 20250218131914.png",
     "02_PRO/Orange_Business_Services/media/Pasted image 20250218131849.png",
     "02_PRO/Orange_Business_Services/media/image.png",
     "02_PRO/Orange_Business_Services/media/image 3.png",
-    "02_PRO/Orange_Business_Services/media/image 2.png",
-    "02_PRO/Orange_Business_Services/media/image 1.png",
     "02_PRO/Orange Business Services/Acceptance Tests/Untitled.canvas"
   ]
 }
