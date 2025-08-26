@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f64334d0dd44fed0",
+        "id": "5eea03349b0824f6",
         "type": "tabs",
         "children": [
           {
-            "id": "4b1a8b194f498e2f",
+            "id": "4410b4162576b6b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "02_PRO/Orange_Business_Services/Get HA interfaces.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Get HA interfaces"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 442.5
   },
   "right": {
     "id": "7f42c8f29cabf1e0",
@@ -177,33 +177,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "545195845714e9ae",
+  "active": "4410b4162576b6b6",
   "lastOpenFiles": [
+    "01_PERSONNEL/Veille/99_Ressources.md",
+    "01_PERSONNEL/Veille/00_Inbox/To process.md",
+    "01_PERSONNEL/Veille/01_Articles/How to crush your competition like Strava.md",
+    "01_PERSONNEL/Veille/Dashboard.md",
+    "01_PERSONNEL/Veille/01_Articles/Why your AI product needs a different development lifecycle.md",
+    "02_PRO/Orange_Business_Services/Get HA interfaces.md",
     "Pasted image 20250825163619.png",
     "Pasted image 20250825163612.png",
     "00_INBOX/Prompt clean archi.md",
-    "02_PRO/Orange_Business_Services/Get HA interfaces.md",
     "02_PRO/Orange_Business_Services/Dev/Proposition réorganisation Clean Archi.md",
     "02_PRO/Orange_Business_Services/Dev/Clean Archi proposition.svg",
     "02_PRO/Orange_Business_Services/Dev/Prompt Clean code SDWAN.md",
     "02_PRO/Orange_Business_Services/Dev/SSE.drawio",
     "02_PRO/Orange_Business_Services/Dev/DDD.md",
-    "01_PERSONNEL/Veille/01_Articles/How to crush your competition like Strava.md",
     "01_PERSONNEL/Veille/01_Articles/Untitled.md",
     "03_TEMPLATES/Veille/Tendance (ex AI dans l’éducation, Product-Led Growth en DevTools).md",
     "03_TEMPLATES/Veille/Synthèse hebdo.md",
     "03_TEMPLATES/Veille/Entreprise.md",
     "03_TEMPLATES/Veille/Article.md",
-    "01_PERSONNEL/Veille/Dashboard.md",
-    "01_PERSONNEL/Veille/99_Ressources.md",
     "01_PERSONNEL/Veille/02_Entreprises/Strava.md",
     "Untitled.base",
-    "01_PERSONNEL/Veille/01_Articles/Why your AI product needs a different development lifecycle.md",
     "README.md",
     "04_SYSTEM/Index.md",
     "04_SYSTEM/Tags.md",
@@ -216,7 +216,6 @@
     "01_PERSONNEL/Veille/01_Articles/medias",
     "01_PERSONNEL/Veille/01_Articles",
     "01_PERSONNEL/Veille/00_Inbox/Why your AI product needs a different development lifecycle.md",
-    "01_PERSONNEL/Veille/00_Inbox/To process.md",
     "01_PERSONNEL/Veille/00_Inbox",
     "03_TEMPLATES/GitLab MR.md",
     "Untitled.md",
@@ -229,7 +228,6 @@
     "02_PRO/Orange_Business_Services/media/Pasted image 20250218131914.png",
     "02_PRO/Orange_Business_Services/media/Pasted image 20250218131849.png",
     "02_PRO/Orange_Business_Services/media/image.png",
-    "02_PRO/Orange_Business_Services/media/image 3.png",
     "02_PRO/Orange Business Services/Acceptance Tests/Untitled.canvas"
   ]
 }

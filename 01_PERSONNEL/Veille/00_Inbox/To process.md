@@ -8,7 +8,7 @@
 - https://www.intercom.com/blog/announcing-the-ai-agent-blueprint/
 - https://www.lennysnewsletter.com/p/essential-reading-for-product-builderspart-1ac
 - https://www.mindtheproduct.com/how-to-build-a-bulletproof-feedback-loop-in-product-ops/
-- https://www.mindtheproduct.com/why-junior-product-managers-get-stuck-in-the-project-management-trap/
+- [x] https://www.mindtheproduct.com/why-junior-product-managers-get-stuck-in-the-project-management-trap/ ✅ 2025-08-26
 
 ## EdTech
 - https://www.edsurge.com/news/2025-08-21-meet-the-students-resisting-the-dark-side-of-ai

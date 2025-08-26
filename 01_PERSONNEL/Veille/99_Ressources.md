@@ -2,4 +2,6 @@
 
 ## 📡 Flux RSS suivis
 
-## 👥 Comptes Twitter/LinkedIn intéressants
+## 📼 Videos
+- [Product School - YouTube](https://www.youtube.com/@ProductSchoolSanFrancisco)
+- [AI Engineer - YouTube](https://www.youtube.com/@aiDotEngineer)
