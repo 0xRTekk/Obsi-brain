@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5eea03349b0824f6",
+        "id": "b933e1342bb03328",
         "type": "tabs",
         "children": [
           {
-            "id": "4410b4162576b6b6",
+            "id": "f148e57df1f1dafe",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 305.5
   },
   "right": {
     "id": "7f42c8f29cabf1e0",
@@ -181,18 +177,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4410b4162576b6b6",
+  "active": "a9bc8e9e9406ba17",
   "lastOpenFiles": [
+    "04_SYSTEM/Daily/2025-09-01.md",
+    "04_SYSTEM/Daily/2025-08-28.md",
+    "02_PRO/Orange_Business_Services/Dev/Proposition réorganisation Clean Archi.md",
+    "02_PRO/Orange_Business_Services/media/Pasted image 20250825163612.png",
+    "02_PRO/Orange_Business_Services/media/Pasted image 20250825163619.png",
     "01_PERSONNEL/Veille/99_Ressources.md",
     "01_PERSONNEL/Veille/00_Inbox/To process.md",
     "01_PERSONNEL/Veille/01_Articles/How to crush your competition like Strava.md",
     "01_PERSONNEL/Veille/Dashboard.md",
     "01_PERSONNEL/Veille/01_Articles/Why your AI product needs a different development lifecycle.md",
     "02_PRO/Orange_Business_Services/Get HA interfaces.md",
-    "Pasted image 20250825163619.png",
-    "Pasted image 20250825163612.png",
     "00_INBOX/Prompt clean archi.md",
-    "02_PRO/Orange_Business_Services/Dev/Proposition réorganisation Clean Archi.md",
     "02_PRO/Orange_Business_Services/Dev/Clean Archi proposition.svg",
     "02_PRO/Orange_Business_Services/Dev/Prompt Clean code SDWAN.md",
     "02_PRO/Orange_Business_Services/Dev/SSE.drawio",
@@ -222,7 +220,6 @@
     "03_TEMPLATES/Veille",
     "01_PERSONNEL/Veille",
     "00_INBOX/Inbox notes.md",
-    "02_PRO/Orange_Business_Services/Team/Philippe.md",
     "01_PERSONNEL/Projets/Technical PO/Stratégie de transition",
     "01_PERSONNEL/Projets/Technical PO/SolariaDev",
     "02_PRO/Orange_Business_Services/media/Pasted image 20250218131914.png",
